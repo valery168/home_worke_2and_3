@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\bin\Debug\net6.0\HW2Task4.exe
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\bin\Debug\net6.0\HW2Task4.deps.json
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\bin\Debug\net6.0\HW2Task4.runtimeconfig.json
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\bin\Debug\net6.0\HW2Task4.dll
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\bin\Debug\net6.0\HW2Task4.pdb
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.csproj.AssemblyReference.cache
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.AssemblyInfo.cs
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.dll
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\refint\HW2Task4.dll
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.pdb
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\HW2Task4.genruntimeconfig.cache
+C:\GeekBrains\C#_Education\HW_2_3\HW2Task4\obj\Debug\net6.0\ref\HW2Task4.dll
