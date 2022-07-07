@@ -1,0 +1,15 @@
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\bin\Debug\net6.0\Homeworke4.3.exe
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\bin\Debug\net6.0\Homeworke4.3.deps.json
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\bin\Debug\net6.0\Homeworke4.3.runtimeconfig.json
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\bin\Debug\net6.0\Homeworke4.3.dll
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\bin\Debug\net6.0\Homeworke4.3.pdb
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.csproj.AssemblyReference.cache
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.AssemblyInfoInputs.cache
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.AssemblyInfo.cs
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.dll
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\refint\Homeworke4.3.dll
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.pdb
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\Homeworke4.3.genruntimeconfig.cache
+C:\GeekBrains\C#_Education\HW_2_3\Homeworke4.3\obj\Debug\net6.0\ref\Homeworke4.3.dll
