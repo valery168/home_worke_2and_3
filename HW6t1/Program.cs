@@ -27,7 +27,7 @@ void PrintArray(int[] array)    //Вывод созданого массива
     }
 }
 
-int PositiveNumber(int[] array)     //Функция поиска кол-ва четных чисел в массиве
+int PositiveNumber(int[] array)     //Функция поиска кол-ва  чисел больше 0 в массиве
 {
     int count = 0;
     for (int i = 0; i < array.Length; i++)
